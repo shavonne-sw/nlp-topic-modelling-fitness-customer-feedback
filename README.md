@@ -48,6 +48,8 @@ The key goals were:
   <img src="Images/Image_fitness%20businss.png" alt="Solution Approach" width="500"/>
 </h3>
 
+
+---
 📍 **Data Understanding & Cleaning**  
 • Combined and cleaned over 30,000 reviews from Google and Trustpilot.  
 • Focused on reviews with a score below 3 stars, which accounted for 20.65% (6,293 reviews) of the dataset.  
