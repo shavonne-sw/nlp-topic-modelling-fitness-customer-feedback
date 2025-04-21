@@ -26,9 +26,20 @@ In this project, topic modelling was applied to support a global fitness and gym
 
 By leveraging this approach, the business can make faster, data-driven decisions and enhance its strategic planning — all rooted in a deeper understanding of customer sentiment and experience.
 
+---
 
 ## 2. Problem Statement
-*Coming soon...*
+
+The business objective was to uncover the factors influencing member satisfaction and dissatisfaction—particularly identifying what drives negative reviews and how these insights can be leveraged for service improvement.
+
+The datasets comprised 12 months of real-world customer reviews from two major platforms: Google and Trustpilot. This analysis aimed to extract actionable insights using NLP techniques, including topic modelling and sentiment analysis, to improve overall member experience.
+
+The key goals were:
+- Identify themes contributing to negative feedback  
+- Highlight recurring issues across locations  
+- Provide data-driven recommendations to improve customer satisfaction
+
+---
 
 ## 3. Solution Approach
 *Coming soon...*
