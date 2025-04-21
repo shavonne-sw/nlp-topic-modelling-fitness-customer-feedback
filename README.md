@@ -158,7 +158,7 @@ To capture higher-level trends, BERTopic was used alongside Phi-4. While Phi-4 g
   <img src="Images/Image9.png" alt="Image9" width="900"/>
 </h3>
 
-Together, these models provided both depth and breadth: Phi-4 highlighted specific pain points, while BERTopic offered a macro view of common complaint patterns, helping the business prioritize actionable areas for improvement.
+Together, these models provided both depth and breadth: Phi-4 highlighted specific pain points, while BERTopic offered a macro view of common complaint patterns, helping the business prioritise actionable areas for improvement.
 
 
 ---
