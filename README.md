@@ -18,3 +18,26 @@
 8. [Conclusion](#8-conclusion)
 
 ---
+## 1. Introduction
+*Coming soon...*
+
+## 2. Problem Statement
+*Coming soon...*
+
+## 3. Solution Approach
+*Coming soon...*
+
+## 4. Exploratory Data Analysis (EDA) & Preprocessing
+*Coming soon...*
+
+## 5. Emotional Analysis
+*Coming soon...*
+
+## 6. Generating Insight with Phi-4
+*Coming soon...*
+
+## 7. Turning Feedback into Action
+*Coming soon...*
+
+## 8. Conclusion
+*Coming soon...*
