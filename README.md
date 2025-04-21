@@ -44,7 +44,7 @@ The key goals were:
 ## 3. Solution Approach
 
 <h3 align="center">
-  <img src="Images/Image_fitness%20businss.png" alt="Solution Approach" width="600"/>
+  <img src="Images/Image_fitness%20businss.png" alt="Solution Approach" width="500"/>
 </h3>
 
 📍 **Data Understanding & Cleaning**  
