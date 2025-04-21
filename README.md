@@ -53,15 +53,21 @@ The key goals were:
 • Focused on reviews with a score below 3 stars, which accounted for 20.65% (6,293 reviews) of the dataset.  
 • Applied regular expressions and text normalisation to clean the review texts, removing noise such as punctuation and stopwords.
 
+---
+
 🌍 **Location Analysis**  
 • Among all features analysed, location emerged as a consistent factor in review sentiment.  
 • While the dataset reflected a global customer base, location data remained relatively sparse, and no single site accounted for a dominant share of negative feedback.  
 • Analysis of the top 30 locations by review volume revealed a notable concentration in London-based locations, which collectively contributed a significant portion of the feedback. This urban clustering suggests that higher-traffic areas may naturally attract more user commentary and scrutiny.
 
+---
+
 🧠 **NLP Modelling & Analysis**  
 • Conducted topic modelling using BERTopic and Gensim's LDA to identify recurring themes in customer feedback across sentiment types and locations.  
 • Employed BERT for emotion classification, adding a sentiment layer to distinguish between positive, neutral, and negative emotional tones in the reviews.  
 • Incorporated the advanced Phi-4 language model for generating targeted, actionable insights based on identified topics and sentiment trends, providing strategic value to the business.
+
+---
 
 📊 **Visualisation & Interpretation**  
 Produced visualisations to:  
