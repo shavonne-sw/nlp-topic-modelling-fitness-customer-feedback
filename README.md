@@ -19,7 +19,13 @@
 
 ---
 ## 1. Introduction
-*Coming soon...*
+
+Applying Natural Language Processing (NLP) for topic modelling is a powerful technique in business analytics. It enables organizations to uncover key themes and patterns within large volumes of unstructured text data.
+
+In this project, topic modelling was applied to support a global fitness and gym operator by streamlining the extraction of insights from customer reviews. Instead of manually sifting through thousands of text entries, automated topic modelling helped surface hidden trends, customer pain points, and recurring themes in the feedback.
+
+By leveraging this approach, the business can make faster, data-driven decisions and enhance its strategic planning — all rooted in a deeper understanding of customer sentiment and experience.
+
 
 ## 2. Problem Statement
 *Coming soon...*
