@@ -43,7 +43,9 @@ The key goals were:
 
 ## 3. Solution Approach
 
-![Solution Approach](Images/Image_fitness%20businss.png)
+<h3 align="center">
+  <img src="Images/Image_fitness%20businss.png" alt="Solution Approach" width="600"/>
+</h3>
 
 📍 **Data Understanding & Cleaning**  
 • Combined and cleaned over 30,000 reviews from Google and Trustpilot.  
