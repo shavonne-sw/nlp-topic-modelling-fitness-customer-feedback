@@ -25,6 +25,8 @@ Applying Natural Language Processing (NLP) for topic modelling is a powerful tec
 
 In this project, topic modelling was applied to support a global fitness and gym operator by streamlining the extraction of insights from customer reviews. Instead of manually sifting through thousands of text entries, automated topic modelling helped surface hidden trends, customer pain points, and recurring themes in the feedback.
 
+By grouping feedback into data-driven themes and combining it with sentiment analysis, the project delivered clear, actionable insights that informed service improvement across multiple locations.
+
 By leveraging this approach, the business can make faster, data-driven decisions and enhance its strategic planning — all rooted in a deeper understanding of customer sentiment and experience.
 
 ---
@@ -39,6 +41,8 @@ The key goals were:
 - Identify themes contributing to negative feedback  
 - Highlight recurring issues across locations  
 - Provide data-driven recommendations to improve customer satisfaction
+
+Ultimately, the project provided a clear prioritisation of customer pain points — such as service quality and cleanliness — and translated those into targeted actions for the business.
 
 ---
 
