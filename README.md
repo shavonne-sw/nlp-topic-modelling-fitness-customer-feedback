@@ -1,4 +1,4 @@
-# Uncovering Customer Feedback Insights Using NLP: Topic Modelling for a Fitness Business
+# Using NLP to Address Key Customer Pain Points in the Gym Business
 
 <h3 align="center">
   <img src="Images/Image10.png" alt="Project Banner" width="600"/>
