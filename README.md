@@ -1,7 +1,7 @@
 # Uncovering Customer Feedback Insights Using NLP: Topic Modelling for a Fitness Business
 
 <h3 align="center">
-  <img src="Images/Uncovering%20Customer%20Feedback%20Insights%20Using%20NLP-%20Topic%20Modelling%20.jpg" alt="Project Banner" width="600"/>
+  <img src="Images/Image10.png" alt="Project Banner" width="600"/>
 </h3>
 
 ---
@@ -9,7 +9,7 @@
 
 ## Table of Contents
 
-1. [Introduction](#1-introduction)  
+1. [Executive Summary](#1-executive-summary)  
 2. [Problem Statement](#2-problem-statement)  
 3. [Solution Approach](#3-solution-approach)  
 4. [Exploratory Data Analysis (EDA) & Preprocessing](#4-exploratory-data-analysis-eda--preprocessing)  
@@ -19,15 +19,14 @@
 8. [Conclusion](#8-conclusion)
 
 ---
-## 1. Introduction
+## 1. Executive Summary
 
-Applying Natural Language Processing (NLP) for topic modelling is a powerful technique in business analytics. It enables organisations to uncover key themes and patterns within large volumes of unstructured text data.
 
-In this project, topic modelling was applied to support a global fitness and gym operator by streamlining the extraction of insights from customer reviews. Instead of manually sifting through thousands of text entries, automated topic modelling helped surface hidden trends, customer pain points, and recurring themes in the feedback.
+This project applied NLP-based topic modelling and sentiment analysis to over 30,000 customer reviews from a global fitness chain. By focusing on reviews rated below 3 stars, the analysis surfaced key pain points, such as equipment issues, poor customer service, and cleanliness concerns—recurring across multiple locations.
 
-By grouping feedback into data-driven themes and combining it with sentiment analysis, the project delivered clear, actionable insights that informed service improvement across multiple locations.
+Automating the analysis replaced manual review, allowing the business to quickly identify common themes across multiple locations. Emotion classification and advanced language models provided deeper insight into customer feelings, revealing frustration and anger as dominant emotions.
 
-By leveraging this approach, the business can make faster, data-driven decisions and enhance its strategic planning — all rooted in a deeper understanding of customer sentiment and experience.
+The insights led to a clear action plan with specific recommendations to improve service, facilities, and communication. Addressing these areas will help the fitness chain reduce negative feedback, improve the member experience, and support informed, data-driven decisions to increase customer satisfaction and retention.
 
 ---
 
@@ -42,7 +41,7 @@ The key goals were:
 - Highlight recurring issues across locations  
 - Provide data-driven recommendations to improve customer satisfaction
 
-Ultimately, the project provided a clear prioritisation of customer pain points — such as service quality and cleanliness — and translated those into targeted actions for the business.
+Ultimately, the project provided a clear prioritisation of customer pain points, such as service quality and cleanliness — and translated those into targeted actions for the business.
 
 ---
 
